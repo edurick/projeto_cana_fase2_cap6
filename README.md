@@ -11,19 +11,12 @@
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes:
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 3</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 4</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 5</a>
+Eduardo Rick
 
 ## 👩‍🏫 Professores:
 
-### Tutor(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Tutor</a>
-
 ### Coordenador(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Coordenador</a>
+André Godoi
 
 ## 📜 Descrição
 
@@ -129,15 +122,8 @@ python projeto_cana/main.py
 
 ## 🗃 Histórico de lançamentos
 
-* 0.5.0 - XX/XX/2024
     *
-* 0.4.0 - XX/XX/2024
-    *
-* 0.3.0 - XX/XX/2024
-    *
-* 0.2.0 - XX/XX/2024
-    *
-* 0.1.0 - XX/XX/2024
+* 0.1.0 - 22/04/2026
     *
 
 ## 📋 Licença
